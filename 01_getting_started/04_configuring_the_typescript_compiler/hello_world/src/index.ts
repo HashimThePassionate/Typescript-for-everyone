@@ -1,0 +1,1 @@
+let age: Number = 25;
